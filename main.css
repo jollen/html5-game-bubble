@@ -1,0 +1,13 @@
+#game {
+	width: 240px;
+	height: 320px;
+}
+
+#game .background {
+	width: 240px;
+	height: 320px;
+}
+
+#game #score-board {
+	font-size: 38px;
+}
